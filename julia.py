@@ -1,3 +1,3 @@
 # encoding:utf-8
 print("JUliaaaa")
-print("yes, James")
+print("yesyes")
